@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+ul{
+            list-style: none;
+        }
+        a{
+            text-decoration: none;
+        }
+        li{
+            display: inline-block;
+            margin: 20px;
+        }
+        .cont{
+            margin: 20px;
+        }
+        
